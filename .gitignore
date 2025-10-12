@@ -1,0 +1,5 @@
+# build directories
+bin/
+build/
+.cache/
+
